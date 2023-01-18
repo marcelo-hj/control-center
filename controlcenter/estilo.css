@@ -1,0 +1,44 @@
+@font-face{
+    font-family: Aileron Heavy;
+    src: url(aileron-heavy.otf);
+}
+
+body{
+    font-family: Aileron Heavy;
+}
+
+.login{
+    width: 500px;
+}
+
+.tabela-centro{
+    height: 100vh;
+}
+
+.tabela-centro-disney{
+    height: 40rem;
+}
+
+.card-registrar{
+    width: 28rem;
+}
+
+.botao:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.side{
+	background-color: #1d1d45;
+}
+
+.card-principal{
+    width: 55rem;
+    height: 40rem;
+}
+
+.bar{
+    background-color: #1d1d45; 
+    margin-left: -10px; 
+    margin-top: -10px; 
+    width: 860px;
+}/*barra de navegação principal*/
